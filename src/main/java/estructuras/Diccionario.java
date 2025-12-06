@@ -1,4 +1,4 @@
-package com.estructuras;
+package estructuras;
 
 /**
  * Interfaz que define el comportamiento básico de un diccionario (mapa).

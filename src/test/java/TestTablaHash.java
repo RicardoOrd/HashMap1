@@ -1,4 +1,4 @@
-import com.estructuras.TablaHash;
+import estructuras.TablaHash;
 
 /**
  * Clase de prueba para verificar el funcionamiento de la TablaHash.
